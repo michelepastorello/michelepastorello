@@ -1,6 +1,19 @@
+<div align="center">
+
 # Michele Pastorello
 
-Open tools that make AI work **measurable and governable** for people who work solo or small.
+**Open tools that make AI work measurable and governable — for people who work solo or small.**
+
+[![Headroom](https://img.shields.io/github/v/release/michelepastorello/headroom?style=flat-square&label=Headroom&color=0a2342)](https://github.com/michelepastorello/headroom/releases)
+[![Homebrew](https://img.shields.io/badge/Homebrew-michelepastorello%2Ftap-E95420?style=flat-square)](https://github.com/michelepastorello/homebrew-tap)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/michelepastorello/headroom/blob/main/LICENSE)
+[![Platform](https://img.shields.io/badge/Platform-macOS-lightgrey?style=flat-square)](https://github.com/michelepastorello/headroom)
+
+</div>
+
+---
+
+## Mission
 
 If you run your work with AI agents — as a solo professional or a small team — you have the same governance problems a large company has: what did the agents do, what did it cost, what are they allowed to touch. You just don't have a platform team. I build small, honest tools for that gap.
 
@@ -10,10 +23,10 @@ If you run your work with AI agents — as a solo professional or a small team �
 
 ## Projects
 
-| Project                                                             | What it does                                                                                                              | License         | Status    |
-| :------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------ | :-------------- | :-------- |
-| [`headroom`](https://github.com/michelepastorello/headroom)         | macOS menu-bar gauge for your AI coding limits (Codex & Claude Code): live percentage, reset times, floating HUD, alerts. | MIT (open-core) | ✅ Active |
-| [`homebrew-tap`](https://github.com/michelepastorello/homebrew-tap) | Homebrew formulae for my tools. `brew install michelepastorello/tap/headroom`                                             | —               | ✅ Active |
+| Project                                                             | What it does                                                    | License         | Status    |
+| :------------------------------------------------------------------ | :-------------------------------------------------------------- | :-------------- | :-------- |
+| [`headroom`](https://github.com/michelepastorello/headroom)         | macOS menu-bar gauge for AI coding limits (Codex & Claude Code) | MIT (open-core) | ✅ Active |
+| [`homebrew-tap`](https://github.com/michelepastorello/homebrew-tap) | Homebrew formulae for my tools                                  | —               | ✅ Active |
 
 ## How I build
 
@@ -25,4 +38,8 @@ If you run your work with AI agents — as a solo professional or a small team �
 
 ---
 
+<div align="center">
+
 Swift · TypeScript/Astro · Python · Node · and a VPS full of systemd units
+
+</div>
