@@ -19,14 +19,15 @@ If you run your work with AI agents — as a solo professional or a small team �
 
 ## Now
 
-**Current cycle:** shipping and maintaining [Headroom](https://github.com/michelepastorello/headroom), and shaping the tooling around AI usage limits and agent operations.
+**Current cycle:** shipping and maintaining [Headroom](https://github.com/michelepastorello/headroom) and [skill-loom](https://github.com/michelepastorello/skill-loom), and shaping the tooling around AI usage limits and agent operations.
 
 ## Projects
 
-| Project                                                             | What it does                                                    | License         | Status    |
-| :------------------------------------------------------------------ | :-------------------------------------------------------------- | :-------------- | :-------- |
-| [`headroom`](https://github.com/michelepastorello/headroom)         | macOS menu-bar gauge for AI coding limits (Codex & Claude Code) | MIT (open-core) | ✅ Active |
-| [`homebrew-tap`](https://github.com/michelepastorello/homebrew-tap) | Homebrew formulae for my tools                                  | —               | ✅ Active |
+| Project                                                             | What it does                                                          | License         | Status    |
+| :------------------------------------------------------------------ | :-------------------------------------------------------------------- | :-------------- | :-------- |
+| [`headroom`](https://github.com/michelepastorello/headroom)         | macOS menu-bar gauge for AI coding limits (Codex & Claude Code)       | MIT (open-core) | ✅ Active |
+| [`skill-loom`](https://github.com/michelepastorello/skill-loom)     | One git-versioned vault of agent skills, symlinked into every runtime | MIT             | ✅ Active |
+| [`homebrew-tap`](https://github.com/michelepastorello/homebrew-tap) | Homebrew formulae for my tools                                        | —               | ✅ Active |
 
 ## How I build
 
